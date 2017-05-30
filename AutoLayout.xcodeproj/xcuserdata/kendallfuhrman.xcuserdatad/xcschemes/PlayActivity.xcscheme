@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "6FE297C01EDD4FFF00F36358"
-               BuildableName = "PlayActivity.app"
-               BlueprintName = "PlayActivity"
-               ReferencedContainer = "container:PlayActivity.xcodeproj">
+               BuildableName = "AutoLayout.app"
+               BlueprintName = "AutoLayout"
+               ReferencedContainer = "container:AutoLayout.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "6FE297C01EDD4FFF00F36358"
-            BuildableName = "PlayActivity.app"
-            BlueprintName = "PlayActivity"
-            ReferencedContainer = "container:PlayActivity.xcodeproj">
+            BuildableName = "AutoLayout.app"
+            BlueprintName = "AutoLayout"
+            ReferencedContainer = "container:AutoLayout.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -56,9 +56,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "6FE297C01EDD4FFF00F36358"
-            BuildableName = "PlayActivity.app"
-            BlueprintName = "PlayActivity"
-            ReferencedContainer = "container:PlayActivity.xcodeproj">
+            BuildableName = "AutoLayout.app"
+            BlueprintName = "AutoLayout"
+            ReferencedContainer = "container:AutoLayout.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -75,9 +75,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "6FE297C01EDD4FFF00F36358"
-            BuildableName = "PlayActivity.app"
-            BlueprintName = "PlayActivity"
-            ReferencedContainer = "container:PlayActivity.xcodeproj">
+            BuildableName = "AutoLayout.app"
+            BlueprintName = "AutoLayout"
+            ReferencedContainer = "container:AutoLayout.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

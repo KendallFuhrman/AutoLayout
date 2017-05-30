@@ -15,7 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		6FE297C11EDD4FFF00F36358 /* PlayActivity.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PlayActivity.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		6FE297C11EDD4FFF00F36358 /* AutoLayout.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AutoLayout.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6FE297C41EDD4FFF00F36358 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		6FE297C61EDD4FFF00F36358 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		6FE297C91EDD4FFF00F36358 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -46,7 +46,7 @@
 		6FE297C21EDD4FFF00F36358 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				6FE297C11EDD4FFF00F36358 /* PlayActivity.app */,
+				6FE297C11EDD4FFF00F36358 /* AutoLayout.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -67,9 +67,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		6FE297C01EDD4FFF00F36358 /* PlayActivity */ = {
+		6FE297C01EDD4FFF00F36358 /* AutoLayout */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 6FE297D31EDD4FFF00F36358 /* Build configuration list for PBXNativeTarget "PlayActivity" */;
+			buildConfigurationList = 6FE297D31EDD4FFF00F36358 /* Build configuration list for PBXNativeTarget "AutoLayout" */;
 			buildPhases = (
 				6FE297BD1EDD4FFF00F36358 /* Sources */,
 				6FE297BE1EDD4FFF00F36358 /* Frameworks */,
@@ -79,9 +79,9 @@
 			);
 			dependencies = (
 			);
-			name = PlayActivity;
+			name = AutoLayout;
 			productName = PlayActivity;
-			productReference = 6FE297C11EDD4FFF00F36358 /* PlayActivity.app */;
+			productReference = 6FE297C11EDD4FFF00F36358 /* AutoLayout.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -101,7 +101,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 6FE297BC1EDD4FFF00F36358 /* Build configuration list for PBXProject "PlayActivity" */;
+			buildConfigurationList = 6FE297BC1EDD4FFF00F36358 /* Build configuration list for PBXProject "AutoLayout" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -114,7 +114,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				6FE297C01EDD4FFF00F36358 /* PlayActivity */,
+				6FE297C01EDD4FFF00F36358 /* AutoLayout */,
 			);
 		};
 /* End PBXProject section */
@@ -288,7 +288,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		6FE297BC1EDD4FFF00F36358 /* Build configuration list for PBXProject "PlayActivity" */ = {
+		6FE297BC1EDD4FFF00F36358 /* Build configuration list for PBXProject "AutoLayout" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				6FE297D11EDD4FFF00F36358 /* Debug */,
@@ -297,7 +297,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		6FE297D31EDD4FFF00F36358 /* Build configuration list for PBXNativeTarget "PlayActivity" */ = {
+		6FE297D31EDD4FFF00F36358 /* Build configuration list for PBXNativeTarget "AutoLayout" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				6FE297D41EDD4FFF00F36358 /* Debug */,
