@@ -20,6 +20,15 @@ class ViewController: UIViewController {
         // Dispose of any resources that can be recreated.
     }
 
+    @IBOutlet weak var button: UIButton!
+    // ! forces it to be have that type. can't be nil
+    
+    @IBAction func buttonPress(_ sender: Any) {
+        print("button pressed")
+    
 
+    }
+    // becuase we have (_sender: Any) means that we can type buttonPRess(asdf) instead of having to type buttonPRess(sender: asdf)
+    //IB means interface builder.
 }
 
